@@ -1,0 +1,43 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-54-24 19:4:9",
+  "loopSlideshow" : 0,
+  "filename" : "Website Placeholder Page - Distributed Resources - Apr 17 2018",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Website Placeholder Page - Distributed Resources - Apr 17 2018",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "3DF47869-9E9E-41BA-8AB9-A295380D1D0A"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1275,
+  "slideHeight" : 1650,
+  "slideCount" : 1,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "HelveticaNeue-Light",
+    "Gotham-Medium",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "Helvetica",
+    "Helvetica-Light",
+    "ArialMT",
+    "GillSans",
+    "Avenir-Book",
+    "Futura-Medium",
+    "Futura-Bold",
+    "Avenir-Black",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue-Thin",
+    "HelveticaNeue",
+    "Avenir-Heavy",
+    "Futura-MediumItalic"
+  ]
+} )
